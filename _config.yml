@@ -1,14 +1,14 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Lucas Vinzon"
+email: lucasvinzon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
 url: "/"
 # You only need to define your social links here and no need to edit the footer.html
 social:
-  twitter_username: wrussell1999
-  github_username:  wrussell1999
-  linkedin_username: wrussell1999
+  twitter_username: lucasvinzon
+  github_username:  SnowPrimate
+  linkedin_username: lucas-vinzon-3311b2aa/
 
 
 sass:
