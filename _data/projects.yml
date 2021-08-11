@@ -1,12 +1,12 @@
-- title: Task Tracker
-  event: MLH Fellowship Pre Fellowship Project
-  date: Summer 2021  - Batch 3.5
+- title: Khaos Radio
+  event: Authorial
+  date: Summer 2020
   page-name: project
   
   # Optional links
-  github: https://github.com/
-  external_link: https://github.com/
-  video_demo: https://github.com/
+  github: https://github.com/ChaosRadio
+  external_link:
+  video_demo: https://github.com/ChaosRadio
   
   id: 1
   summary: >- # This means to ignore newlines until the next attribute. This summary is used for the overlay card content. 
@@ -16,13 +16,13 @@
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Second Dummy project
-- title: Not a Task Tracker
+- title: NoteIt
   event: MLH Fellowship Pre Fellowship Project
   date: Summer 2021  - Batch 3.5
   page-name: project
 
   # Optional links
-  github: https://github.com/
+  github: https://www.google.com/url?q=https://github.com/MLH-Fellowship/pod-3.1.3-team-2
   external_link: 
   video_demo: https://github.com/
 
